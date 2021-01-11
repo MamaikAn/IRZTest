@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <inttypes.h>
 #include <conio.h>
+#include <stdbool.h>
 
 void doJob() {
 	uint32_t a32 = 0;
